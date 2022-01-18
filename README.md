@@ -1,6 +1,6 @@
 # Connect-UPG
 
-**Connect UPG** is an app that enables students to interact and share their thoughts, emotions, feeling as things went online due to covid it became complicated for students to make new friends and experiences through zoom lectures, so this application assists to engage students to exchange their thoughts and get each other.
+**Connect UPG** is an app that enables students to interact and share their thoughts, emotions, feeling as things went online due to covid it became complicated for students to make new friends and experiences through zoom lectures, so this application assists to engage students to exchange their thoughts and get to know each other.
 
 ## Functionality  
 
