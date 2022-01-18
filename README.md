@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Light Mode             |  Dark Mode
+Light Theme             |  Dark Theme
 :-------------------------:|:-------------------------:
 ![Light Mode github](https://user-images.githubusercontent.com/73629899/149972431-eea15137-e3d8-44af-9389-242c54b50c51.gif)|![dark mode github](https://user-images.githubusercontent.com/73629899/149972399-21a81316-15d7-4272-b912-40546ff7f21d.gif)
 
