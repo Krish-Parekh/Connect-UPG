@@ -23,4 +23,6 @@ Light Mode             |  Dark Mode
 * [x] RecyclerView animation: https://github.com/wasabeef/recyclerview-animators
 * [x] Coil: https://coil-kt.github.io/coil/  
 * [x] Circular Image: https://github.com/hdodenhof/CircleImageView 
+* [x] Material Text Field : https://github.com/florent37/MaterialTextField
+* [x] Floating Action Button : https://github.com/imtuann/FloatingActionButtonExpandable  
 
