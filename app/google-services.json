@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388295165421",
+    "project_id": "connectupg-56e42",
+    "storage_bucket": "connectupg-56e42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388295165421:android:d4c5e09604340531f393e4",
+        "android_client_info": {
+          "package_name": "com.krish.connectupg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388295165421-0jk4klu0upc28lq3s950pdo91cghm753.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVJS5xxm5Kyy2nMcxgxE3SqytOKRw9wcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388295165421-0jk4klu0upc28lq3s950pdo91cghm753.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

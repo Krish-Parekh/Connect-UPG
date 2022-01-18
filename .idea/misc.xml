@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/drawable/background_fab.xml" value="0.3828125" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/drawable/bottom_border.xml" value="0.3828125" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/drawable/circular_background.xml" value="0.3828125" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/drawable/complete_state_selector.xml" value="0.2625" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/drawable/ic_error_placeholder.xml" value="0.3828125" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/drawable/ic_menu.xml" value="0.1734375" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/drawable/idle_state_selector.xml" value="0.3671875" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/drawable/text_bg.xml" value="0.3828125" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/comment_row_layout.xml" value="0.5" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/fragment_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/fragment_edit.xml" value="0.34564643799472294" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/fragment_image.xml" value="0.2957427536231884" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/fragment_login.xml" value="0.33" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/fragment_post.xml" value="0.33" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/fragment_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/fragment_testing.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/fragment_user_detail.xml" value="0.35104166666666664" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/loading_dialog.xml" value="0.35104166666666664" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/placeholder_row_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android Practice/ConnectUPG/app/src/main/res/layout/post_row_layout.xml" value="0.34270833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
